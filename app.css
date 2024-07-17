@@ -1,0 +1,16 @@
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  #notas .card {
+    max-height: 300px;
+    max-width: 300px; /* Establecer una altura máxima para la tarjeta */
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds max-height */
+  }
+
+  textarea {
+    width: 100%; /* Expand width to full container */
+    height: 150px; /* Set fixed height */
+  }
+  
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./app.css" />
+    <title>Crear Nota</title>
+</head>
+
+<body>
+    <div class="container">
+        <p class="h2 display-4 fw-bold text-center my-4">Crear Nota</p>
+        <div class="row">
+            <div class="d-flex justify-content-end">
+                <a href="./Index.html">
+                    <button  class="btn btn-warning my-4">Volver Al Listado</button>
+                </a>
+            </div>
+            <div class="col-md-8 mx-auto">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="mb-3">
+                            <label for="titulo">Titulo</label>
+                            <input type="text" class="form-control" id="titulo" />
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label for="contenido">Contenido</label>
+                            <textarea type="text" class="form-control" id="contenido"></textarea>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="mb-3">
+                            <label for="fecha">Fecha</label>
+                            <input type="date" class="form-control" id="fecha" />
+                        </div>
+                    </div>
+                    <div class="d-grid mx-auto col-4 my-3">
+                        <button type="button" class="btn btn-success" onclick="crearNota()">
+                            Guardar Nota
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./app.js"></script>
+</body>
+
+</html>
