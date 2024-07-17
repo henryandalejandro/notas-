@@ -1,0 +1,77 @@
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\appsettings.json
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Notas.exe
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Notas.deps.json
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Notas.runtimeconfig.json
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Notas.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Notas.pdb
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\MySqlConnector.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SISTEMA\Escritorio\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.csproj.AssemblyReference.cache
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.AssemblyInfoInputs.cache
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.AssemblyInfo.cs
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.csproj.CoreCompileInputs.cache
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.MvcApplicationPartsAssemblyInfo.cs
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.MvcApplicationPartsAssemblyInfo.cache
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.sourcelink.json
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets\msbuild.Notas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Notas.props
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Notas.props
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Notas.props
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\scopedcss\bundle\Notas.styles.css
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.csproj.Up2Date
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.dll
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\refint\Notas.dll
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.pdb
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\Notas.genruntimeconfig.cache
+D:\SISTEMA\Escritorio\backend\obj\Debug\net8.0\ref\Notas.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\appsettings.Development.json
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\appsettings.json
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Notas.exe
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Notas.deps.json
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Notas.runtimeconfig.json
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Notas.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Notas.pdb
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\MySqlConnector.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\trbajos\BLOCKde notas con victor\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.csproj.AssemblyReference.cache
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.AssemblyInfoInputs.cache
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.AssemblyInfo.cs
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.csproj.CoreCompileInputs.cache
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.MvcApplicationPartsAssemblyInfo.cs
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.MvcApplicationPartsAssemblyInfo.cache
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets\msbuild.Notas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Notas.props
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Notas.props
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Notas.props
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\scopedcss\bundle\Notas.styles.css
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.csproj.Up2Date
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.dll
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\refint\Notas.dll
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.pdb
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\Notas.genruntimeconfig.cache
+D:\trbajos\BLOCKde notas con victor\Backend\obj\Debug\net8.0\ref\Notas.dll
